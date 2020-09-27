@@ -1,0 +1,12 @@
+.alert {
+    box-shadow: none !important;
+    margin: 0;
+    margin-right: 5.5em;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
